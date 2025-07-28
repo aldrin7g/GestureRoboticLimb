@@ -74,6 +74,7 @@ This project is published in **Lecture Notes in Electrical Engineering (LNEE, vo
 ---
 
 ## 👨‍🔬 Authors
+Karunya Institute of Technology and Sciences, Coimbatore, India
 
 - **S. Rubeena Grace Tamilarasi**  
 - **G. Aldrin**  
@@ -81,4 +82,4 @@ This project is published in **Lecture Notes in Electrical Engineering (LNEE, vo
 - **Roopa Jayasingh**  
 - **J. Samson**  
 - **G. Josemin Bala**  
-Karunya Institute of Technology and Sciences, Coimbatore, India
+
