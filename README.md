@@ -82,5 +82,3 @@ This project is published in **Lecture Notes in Electrical Engineering (LNEE, vo
 - **J. Samson**  
 - **G. Josemin Bala**  
 Karunya Institute of Technology and Sciences, Coimbatore, India
-
-# GestureRoboticLimb
